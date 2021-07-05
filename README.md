@@ -1,2 +1,2 @@
 # QGIS
-Geographic data analysis form Chicago and Buenos Aires
+Geographic data analysis from Chicago and Buenos Aires
